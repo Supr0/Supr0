@@ -15,6 +15,7 @@ I build practical software solutions using Python, with a focus on backend devel
 
 ### Featured Projects
 
+- [Telegram Perfume Shop](https://github.com/Supr0/PerfumeTGShop) — Automation for a perfume shop, Full perfume marketplace made with Telegram Mini-App
 - [Marketplace Bot](https://github.com/Supr0/marketplace-bot) — Telegram bot for marketplace monitoring.
 - [Weather Assistant](https://github.com/Supr0/weather_assistant_bot) — Telegram weather assistant using an external API.
 - [Task Management Bot](https://github.com/Supr0/simple-task-bot) — Telegram task management with pagination.
