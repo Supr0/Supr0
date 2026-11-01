@@ -26,6 +26,6 @@ I build practical software solutions using Python, with a focus on backend devel
 - Database architecture and deployment.
 - AI-powered applications.
 
-📫 Contact: [Your email]
+📫 Contact: m.shulga2020@gmail.com
 
 GitHub: https://github.com/Supr0
